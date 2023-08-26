@@ -1,0 +1,23 @@
+===================================================
+>>>>>>>>>>>>>>>>>>>>HOW TO PLAY<<<<<<<<<<<<<<<<<<<<
+===================================================
+1. Each player takes their turn to fill a square
+   with their respective symbol(*, #, or $).
+2. This is around-system game. Each winner of the
+   round will be given one score. The first player
+   that gathered two scores will be the winner of
+   the game.
+3. In each round, player who cleared a whole
+   horizontal line or a whole vertical line or
+   a whole diagonal lines with their respective
+   symbols will be the winner of the round. Thus,
+   a round can be ended with a draw.
+4. Players are restricted to:
+   a. fill a box that already filled by other
+      players.
+   b. input any other alphabet or symbol or
+      anything that isn't displayed on the
+      board game.
+===================================================
+>>>>>>>>>>>>>>Press ENTER to Continue<<<<<<<<<<<<<<
+===================================================
